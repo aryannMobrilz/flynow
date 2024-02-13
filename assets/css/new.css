@@ -11,5 +11,14 @@ div#contact001 {
     text-align: center;
     color: #fff;
 }
+.light-section-title.text-center h4 {
+    font-size: 21px;
+    line-height: 30px;
+}
+.section-title.text-center p {
+    font-size: 16px;
+}
 
 /* contact form home page css ends */
+
+

@@ -642,7 +642,7 @@ h5 {
 	color: #07253F;
 	font-weight: bold;
 	font-size: 14px;
-	padding: 15px 20px;
+	padding: 15px 15px;
 	letter-spacing: 1px;
 	transition: all 0.3s ease;
 	-webkit-transition: all 0.3s ease;
@@ -3107,7 +3107,7 @@ h5 {
 			20. hotel-detailed.html CSS Start
 *********************************************************************************/
 .page-title {
-	background: url('../images/bg-image16.jpg');
+	background: url('https://shtheme.com/demosd/cruisewp/wp-content/themes/cruise/assets/images/bg-image16.jpg');
 	padding: 60px 0px;
 	background-attachment: fixed;
 	background-size: contain;
