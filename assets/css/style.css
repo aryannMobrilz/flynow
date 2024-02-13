@@ -450,7 +450,7 @@ h5 {
 	color: #ffffff;
 	font-weight: bold;
 	font-size: 14px;
-	padding: 15px 20px;
+	padding: 15px 15px;
 	letter-spacing: 1px;
 	transition: all 0.3s ease;
 	-ms-transition: all 0.3s ease;
@@ -460,6 +460,16 @@ h5 {
 }
 .transparent-menu .navbar-nav > li > a:hover{
 	color: #f9676b;
+	
+}
+
+#faltu{
+	display: none;
+}
+
+.owl-controls{
+	display: none;
+
 }
 .transparent-menu .navbar-default .navbar-nav > .active > a, 
 .transparent-menu .navbar-default .navbar-nav > .active > a:focus, 
