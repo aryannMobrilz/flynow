@@ -2414,7 +2414,7 @@ h5 {
 			15. flight-list.html 
 *********************************************************************************/
 .modify-flight {
-	background: url('../images/bg-image10.jpg');
+	background: url('/images-new/bg-image10.webp');
 	background-attachment: fixed;
 	background-size: contain;
 }
@@ -2994,7 +2994,7 @@ h5 {
 			19. cruise-list.html CSS Start
 *********************************************************************************/
 .modify-cruise {
-	background: url('../images/bg-image13.jpg');
+	background: url('/images-new/bg-image13.webp');
 	background-size: contain;
 	background-attachment: fixed;
 }
@@ -6455,7 +6455,7 @@ h5 {
 			40. car-list.html CSS Start
 *********************************************************************************/
 .modify-car {
-	background: url('../images/bg-image12.jpg');
+	background: url('/images-new/slide_2.jpg');
 	background-attachment: fixed;
 	background-size: contain;
 }
