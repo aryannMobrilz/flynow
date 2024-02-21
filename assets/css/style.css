@@ -2020,7 +2020,7 @@ h5 {
 			13. hotel-grid.html CSS Start
 ************************************************************************/
 .modify-hotel {
-	background: url('../images/bg-image11.jpg');
+	background: url('/images-new/bg-image11.webp');
 	background-attachment: fixed;
 	background-size: contain;
 }
@@ -2844,7 +2844,7 @@ h5 {
 			17. holidays-grid.html CSS Starts
 *****************************************************************************************/
 .modify-holiday {
-	background: url('../images/bg-image9.jpg') !important;
+	background: url('/images-new/bg-image9.webp') !important;
 	background-size: contain !important;
 	background-attachment: fixed !important;
 }
