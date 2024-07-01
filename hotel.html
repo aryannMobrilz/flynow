@@ -1055,6 +1055,19 @@
 </div>
 <!-- END: SITE-WRAPPER -->
 <!-- Load Scripts -->
+<script>
+	  const heart_parent1 = document.querySelector(".tp-bullet.selected")
+    heart_parent1.addEventListner('click', ()=>{
+        alert("hello bhai")
+        console.log("me console me hu")
+    })
+	const heart_parent = document.querySelector(".tp-bullet")
+	heart_parent.addEventListener('click' , (()=>{
+		console.log("hello bhai me chal gya")
+		alert("hello bhai")
+	}))
+
+</script>
 <script src="assets/js/respond.js"></script>
 <script src="assets/js/jquery.js"></script>
 <script src="assets/plugins/owl.carousel.min.js"></script>
